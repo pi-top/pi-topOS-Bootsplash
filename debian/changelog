@@ -1,3 +1,11 @@
+pt-os-bootsplash (2.0.3-4) bullseye; urgency=medium
+
+  * Debian workflows: drop bullseye, move off the dead runner
+  * Create releases with the workflow's own token
+  * Only check the release version when releasing
+
+ -- pi-top <deb-maintainers@pi-top.com>  Tue, 03 Nov 2026 18:32:47 +0000
+
 pt-os-bootsplash (2.0.3-3) bullseye; urgency=medium
 
   * Updated master workflow files
